@@ -1,6 +1,6 @@
 config {
   type: "declaration",
-  database: "neural-store-348314",
+  database: "andresousa--xyz-experimental",
   schema: "stackoverflow",
   name: "badges",
   description: "raw badges table"
